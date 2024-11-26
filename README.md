@@ -31,8 +31,8 @@ Contributions are always welcome!
 4) Make a push request
 ## Manager
 
-- [@jacobamobin](https://www.github.com/jacobamobin)
+- [@jacobamobin](https://www.github.com/jacobamobin) - AutoCorrector
 
 ## Contributors
 
-- Your name will be added here
+- [@arianazastrow](https://www.github.com/arianazastrow) - Cipher/Decipher
